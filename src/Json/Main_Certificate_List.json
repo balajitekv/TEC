@@ -1,0 +1,27 @@
+[
+  { "name": "Amazon AWS Chime Certifications", "code": "Aws" },
+  {
+    "name": "Cisco Certifications",
+    "code": "Cisco"
+  },
+  {
+    "name": "Microsoft Certifications",
+    "code": "Microsoft"
+  },
+  {
+    "name": "Zoom Certifications",
+    "code": "Zoom"
+  },
+  {
+    "name": "Google Certifications",
+    "code": "Google"
+  },
+  {
+    "name": "Kandy Certificatons",
+    "code": "Kandy"
+  },
+  {
+    "name": "RingCentral Certifications",
+    "code": "RingCentral"
+  }
+]
